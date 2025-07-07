@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Matthew. Based in New Jersey, USA</h1>
 💫 About Me:
-I am a recent CS graduate from the University of Michigan actively working on projects to improve my skills in data and analytics engineering. <br><br>My interests include working with sports data and machine learning (particularly Hierarchical Bayesian Models at the moment).<br><br>Currently, I am building an advanced stats website for college football using Python, Airflow, Google BigQuery, and dbt.
+I am a recent CS graduate from the University of Michigan actively working on projects to improve my skills in data and analytics engineering. <br><br>My interests include working with sports data and machine learning.<br><br>Currently, I am building an advanced stats website for college football using Python, Airflow, Google BigQuery, and dbt.
 
 
 # 💻 Tech Stack:
